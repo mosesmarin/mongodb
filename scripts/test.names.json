@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5b5504dd3627b5f050ae3b4a"},"name":"Moses","checked":"on","an_array":["a","b","c","d","e","f","g","h","i","j","k"]}
+{"_id":{"$oid":"5b55052118ac130716d8b604"},"name":"Moses","age":25.0,"checked":"on","an_array":["a","b","c","d","e","f","g","h","i","j","k"]}
+{"_id":{"$oid":"5b55083318ac130716d8b605"},"name":"Moses","age":21.0,"checked":"on","an_array":["a","b","c","d","e","f","g","h","i","j","k"]}
+{"_id":{"$oid":"5b55083318ac130716d8b606"},"name":"Moses","age":31.0,"checked":"on","an_array":["a","b","c","d","e","f","g","h","i","j","k"]}
+{"_id":{"$oid":"5b55083318ac130716d8b607"},"name":"Moses","age":41.0,"checked":"on","an_array":["a","b","c","d","e","f","g","h","i","j","k"]}
+{"_id":{"$oid":"5b55083318ac130716d8b608"},"name":"Moses","age":51.0,"checked":"on","an_array":["a","b","c","d","e","f","g","h","i","j","k"]}
+{"_id":12.0,"b":[3.0,5.0,7.0,2.0,1.0],"an_array":["a","b","c","d","e","f","g","h","i","j","k"]}

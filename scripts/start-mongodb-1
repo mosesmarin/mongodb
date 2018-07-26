@@ -1,0 +1,2 @@
+#mongod --configsvr --port 27019 --dbpath database/
+mongod  -f /Users/moses/Downloads/mongo/etc/mongodb-1.conf --wiredTigerEngineConfigString="cache_size=50M"

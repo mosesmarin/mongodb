@@ -1,0 +1,2 @@
+#mongod --configsvr --port 27019 --dbpath database/
+mongod --port 27019 --dbpath database
